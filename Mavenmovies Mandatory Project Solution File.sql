@@ -1,7 +1,4 @@
-
-#                              | WEEK 2-MANDATORY PROJECT ON DATABASE NAMED MAVENMOVIES |
-#                          *******************************************************************
-
+                
 create database mavenmovies;
 use mavenmovies;
 
